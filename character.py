@@ -10,17 +10,17 @@ attackTwo,defenseTwo = tuplostest2
 attackThree,defenseThree = tuplostest3
 
 
-playerOne =  str(input("Player 1 : "))
-attackOne = int(input("atk: "))
-defenseOne = int(input("def: "))
+playerOne =  str(input())
+attackOne = int(input())
+defenseOne = int(input())
 
-playerTwo =  str(input("Player 2 : "))
-attackTwo = int(input("atk: "))
-defenseTwo = int(input("def: "))
+playerTwo =  str(input())
+attackTwo = int(input())
+defenseTwo = int(input())
 
-playerThree = str(input("Player 3 : "))
-attackThree = int(input("atk: "))
-defenseThree = int(input("def: "))
+playerThree = str(input())
+attackThree = int(input())
+defenseThree = int(input())
 
 tuplostest1 = (attackOne, defenseOne)
 tuplostest3 = (attackTwo, defenseTwo)
