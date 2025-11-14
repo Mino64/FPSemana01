@@ -23,8 +23,8 @@ attackThree = int(input())
 defenseThree = int(input())
 
 tuplostest1 = (attackOne, defenseOne)
-tuplostest3 = (attackTwo, defenseTwo)
-tuplostest2 = (attackThree, defenseThree)
+tuplostest2 = (attackTwo, defenseTwo)
+tuplostest3 = (attackThree, defenseThree)
 
 
 players = [
@@ -32,7 +32,6 @@ players = [
 [playerTwo, tuplostest2],
 [playerThree, tuplostest3]
 ]
-
 
 print(players)
 
